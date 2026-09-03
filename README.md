@@ -1,7 +1,6 @@
-# Hello i am Rexmond
+# Hello, I am Rexmond Anih
 
-## Cloud & Infrastructure Engineer
-
+## Cloud & Infrastructure Engineer | Problem Solver | Process & Standards Builder
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
@@ -10,10 +9,6 @@
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?logo=microsoft&logoColor=white)
 ![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?logo=microsoft&logoColor=white)
 
-
-# Hello, I'm Rexmond Anih
-
-## Cloud & Infrastructure Engineer | Problem Solver | Process & Standards Builder
 
 I strongly focus on building reliable technical environments and establishing the **standards, processes, and implementation frameworks** that make infrastructure easier to operate, secure, support, and scale.
 
