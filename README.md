@@ -25,18 +25,19 @@ I value being someone that colleagues and stakeholders can **rely on and trust**
 
 My technical experience spans **Microsoft Azure, AWS, Terraform, Microsoft 365, Microsoft Entra ID, Intune, Windows/Linux infrastructure, enterprise networking, monitoring, automation, and cloud security**.
 
-My engineering approach centers on building infrastructure that is:
+I follow these **7 core principles** that guide how I design, implement, improve, and support technology:
 
-- **Secure**
-- **Resilient**
-- **Observable**
-- **Maintainable**
-- **Standardized**
-- **Operationally sustainable**
+1. **Secure**
+2. **Resilient**
+3. **Observable**
+4. **Maintainable**
+5. **Standardized** 
+6. **Operationally Sustainable**
+7. **Adaptable & Flexible**
 
 ---
 
-## ☁️ Cloud & Infrastructure
+## Cloud & Infrastructure
 
 - Microsoft Azure
 - Amazon Web Services (AWS)
@@ -48,7 +49,7 @@ My engineering approach centers on building infrastructure that is:
 - Backup & Disaster Recovery
 - Identity & Role-Based Access Control
 
-## 🖥️ Systems & Enterprise IT
+## Systems & Enterprise IT
 
 - Windows & Linux
 - Microsoft 365
@@ -60,7 +61,7 @@ My engineering approach centers on building infrastructure that is:
 - Endpoint Management
 - DNS, DHCP & TCP/IP Networking
 
-## 🏆 Certifications
+## Certifications
 
 - **Microsoft Certified: Azure Administrator Associate (AZ-104)**
 - **AWS Certified Solutions Architect – Associate**
@@ -68,7 +69,7 @@ My engineering approach centers on building infrastructure that is:
 
 ---
 
-# 🚀 Featured Project
+# Featured Project
 
 ## Azure Enterprise Infrastructure
 
