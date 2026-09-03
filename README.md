@@ -1,4 +1,4 @@
-# Hello i am Rexmond Anih
+# Hello i am Rexmond
 
 ## Cloud & Infrastructure Engineer
 
@@ -11,7 +11,7 @@
 ![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?logo=microsoft&logoColor=white)
 
 
-# Hi, I'm Rexmond Anih
+# Hello, I'm Rexmond Anih
 
 ## Cloud & Infrastructure Engineer | Problem Solver | Process & Standards Builder
 
