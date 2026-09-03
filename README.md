@@ -19,7 +19,7 @@ I strongly focus on building reliable technical environments and establishing th
 
 I own technical challenges with **integrity, structure, and accountability**. My focus is not only on resolving an immediate problem, but also on understanding its root cause and, where appropriate, creating a **repeatable process, technical standard, or operational mechanism** that helps prevent the same issue from recurring.
 
-As i am a proud **Cloud & Infrastructure Engineer**, i always enjoy taking technical requirements from **problem identification through design, implementation, validation, documentation, and operational handover**. Whether working with cloud infrastructure, enterprise systems, identity, networking, monitoring, or automation, I believe successful engineering requires both a working technical solution and a clear process for managing it consistently.
+As a proud **Cloud & Infrastructure Engineer**, I always enjoy taking technical requirements from **problem identification through design, implementation, validation, documentation, and operational handover**. Whether working with cloud infrastructure, enterprise systems, identity, networking, monitoring, or automation, I believe successful engineering requires both a working technical solution and a clear process for managing it consistently.
 
 I value being someone that colleagues and stakeholders can **rely on and trust**. I communicate clearly, take responsibility for my work, document important decisions, and follow technical issues through to a dependable resolution.
 
