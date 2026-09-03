@@ -15,11 +15,11 @@
 
 ## Cloud & Infrastructure Engineer | Problem Solver | Process & Standards Builder
 
-I am a **Cloud & Infrastructure Engineer and problem solver** with a strong focus on building reliable technical environments and establishing the **standards, processes, and implementation frameworks** that make infrastructure easier to operate, secure, support, and scale.
+I strongly focus on building reliable technical environments and establishing the **standards, processes, and implementation frameworks** that make infrastructure easier to operate, secure, support, and scale.
 
-I approach technical challenges with **ownership, integrity, structure, and accountability**. My focus is not only on resolving an immediate problem, but also on understanding its root cause and, where appropriate, creating a **repeatable process, technical standard, or operational mechanism** that helps prevent the same issue from recurring.
+I own technical challenges with **integrity, structure, and accountability**. My focus is not only on resolving an immediate problem, but also on understanding its root cause and, where appropriate, creating a **repeatable process, technical standard, or operational mechanism** that helps prevent the same issue from recurring.
 
-I enjoy taking technical requirements from **problem identification through design, implementation, validation, documentation, and operational handover**. Whether working with cloud infrastructure, enterprise systems, identity, networking, monitoring, or automation, I believe successful engineering requires both a working technical solution and a clear process for managing it consistently.
+As i am a proud **Cloud & Infrastructure Engineer**, i always enjoy taking technical requirements from **problem identification through design, implementation, validation, documentation, and operational handover**. Whether working with cloud infrastructure, enterprise systems, identity, networking, monitoring, or automation, I believe successful engineering requires both a working technical solution and a clear process for managing it consistently.
 
 I value being someone that colleagues and stakeholders can **rely on and trust**. I communicate clearly, take responsibility for my work, document important decisions, and follow technical issues through to a dependable resolution.
 
