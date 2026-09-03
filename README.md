@@ -38,8 +38,6 @@ My engineering approach centers on building infrastructure that is:
 
 ## ☁️ Cloud & Infrastructure
 
-## ☁️ Cloud & Infrastructure
-
 - Microsoft Azure
 - Amazon Web Services (AWS)
 - Terraform / Infrastructure as Code
