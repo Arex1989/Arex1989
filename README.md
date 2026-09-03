@@ -11,13 +11,32 @@
 ![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?logo=microsoft&logoColor=white)
 
 
-I am a Cloud & Infrastructure Engineer with hands-on experience supporting, designing, securing, and managing enterprise IT and cloud environments.
+# Hi, I'm Rexmond Anih
 
-My technical focus includes **Microsoft Azure, AWS, Terraform, Microsoft 365, Entra ID, Intune, Windows/Linux infrastructure, enterprise networking, monitoring, automation, and cloud security**.
+## Cloud & Infrastructure Engineer | Problem Solver | Process & Standards Builder
 
-I enjoy building practical infrastructure projects that demonstrate not only how cloud resources are deployed, but also how they are secured, monitored, recovered, automated, and managed through Infrastructure as Code.
+I am a **Cloud & Infrastructure Engineer and problem solver** with a strong focus on building reliable technical environments and establishing the **standards, processes, and implementation frameworks** that make infrastructure easier to operate, secure, support, and scale.
+
+I approach technical challenges with **ownership, integrity, structure, and accountability**. My focus is not only on resolving an immediate problem, but also on understanding its root cause and, where appropriate, creating a **repeatable process, technical standard, or operational mechanism** that helps prevent the same issue from recurring.
+
+I enjoy taking technical requirements from **problem identification through design, implementation, validation, documentation, and operational handover**. Whether working with cloud infrastructure, enterprise systems, identity, networking, monitoring, or automation, I believe successful engineering requires both a working technical solution and a clear process for managing it consistently.
+
+I value being someone that colleagues and stakeholders can **rely on and trust**. I communicate clearly, take responsibility for my work, document important decisions, and follow technical issues through to a dependable resolution.
+
+My technical experience spans **Microsoft Azure, AWS, Terraform, Microsoft 365, Microsoft Entra ID, Intune, Windows/Linux infrastructure, enterprise networking, monitoring, automation, and cloud security**.
+
+My engineering approach centers on building infrastructure that is:
+
+- **Secure**
+- **Resilient**
+- **Observable**
+- **Maintainable**
+- **Standardized**
+- **Operationally sustainable**
 
 ---
+
+## ☁️ Cloud & Infrastructure
 
 ## ☁️ Cloud & Infrastructure
 
