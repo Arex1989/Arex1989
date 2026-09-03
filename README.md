@@ -1,4 +1,4 @@
-# Hi, I'm Rexmond 👋
+# Hello i am Rexmond Anih
 
 ## Cloud & Infrastructure Engineer
 
