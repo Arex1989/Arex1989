@@ -18,13 +18,13 @@ I enjoy taking infrastructure through the complete engineering lifecycle:
 
 **Design → Build → Secure → Automate → Validate → Monitor → Document → Operate**
 
-My approach is not simply to deploy cloud resources, but to understand how infrastructure is **architected, secured, automated, monitored, validated, maintained, documented, and managed throughout its lifecycle**.
+My goal is not simply to deploy cloud resources, but to understand how infrastructure is **architected, secured, automated, monitored, validated, maintained, documented, and managed throughout its lifecycle**.
 
 ---
 
 # Cloud & Infrastructure Engineering Portfolio
 
-My hands-on portfolio has progressed from **single-cloud infrastructure engineering** into **high-availability AWS architecture** and ultimately into a **multi-cloud DevSecOps platform spanning AWS and Microsoft Azure**.
+My hands-on portfolio has progressed from **Azure enterprise infrastructure**, to **high-availability AWS architecture**, and then to a **multi-cloud DevSecOps platform spanning AWS and Microsoft Azure**.
 
 ```text
 Project 1
@@ -49,7 +49,7 @@ Enterprise Cloud Platform Engineering
 
 **Microsoft Azure • Terraform • Linux • Networking • Monitoring • Backup & Recovery**
 
-A production-style Azure enterprise infrastructure environment demonstrating practical cloud infrastructure engineering, secure networking, Linux compute, monitoring, backup/recovery, and Infrastructure as Code.
+A production-style Azure enterprise infrastructure project demonstrating practical cloud infrastructure engineering, secure networking, Linux compute, monitoring, backup/recovery, and Infrastructure as Code.
 
 ### Architecture & Infrastructure
 
@@ -68,7 +68,7 @@ A production-style Azure enterprise infrastructure environment demonstrating pra
 
 ### Infrastructure as Code
 
-The environment was progressively brought under **Terraform management using a brownfield adoption workflow**.
+The environment was brought under **Terraform management using a brownfield adoption workflow**.
 
 The project demonstrates:
 
@@ -106,7 +106,7 @@ Operational Validation
 
 # Project 2 — AWS Highly Available Enterprise Architecture
 
-**AWS • Terraform • Multi-AZ • EC2 • ALB • Auto Scaling • IAM • CloudWatch • S3**
+**AWS • Terraform • Multi-AZ • EC2 • Application Load Balancer • Auto Scaling • IAM • CloudWatch • S3**
 
 A production-style AWS highly available enterprise architecture designed to demonstrate **resilient multi-AZ infrastructure, secure workload deployment, automated scaling, observability, Infrastructure as Code, and resilience testing**.
 
@@ -143,7 +143,7 @@ CloudWatch
 Resilience Testing
 ```
 
-This project demonstrates how infrastructure can be designed to improve **availability, scalability, security, observability, and operational resilience** rather than relying on a single compute instance or manually managed architecture.
+The project demonstrates how cloud infrastructure can be designed around **availability, scalability, security, observability, and operational resilience**.
 
 **Repository:** [aws-highly-available-enterprise-architecture](https://github.com/Arex1989/aws-highly-available-enterprise-architecture)
 
@@ -157,7 +157,7 @@ This project demonstrates how infrastructure can be designed to improve **availa
 
 A comprehensive multi-cloud infrastructure engineering platform designed and implemented across **Amazon Web Services and Microsoft Azure**.
 
-The project demonstrates the complete lifecycle of modern cloud infrastructure — from networking and compute through Infrastructure as Code, CI/CD, federated identity, security hardening, Terraform modularization, observability, troubleshooting, validation, documentation, and controlled infrastructure teardown.
+The project demonstrates the complete lifecycle of modern infrastructure — from networking and compute through Infrastructure as Code, CI/CD, federated identity, security hardening, Terraform modularization, observability, troubleshooting, validation, documentation, and controlled infrastructure teardown.
 
 ## Architecture
 
@@ -300,8 +300,6 @@ Operational Validation
 
 ## 11-Phase Engineering Journey
 
-The Multi-Cloud DevSecOps platform was developed through **11 progressive engineering phases**.
-
 ### Phase 1 — AWS Networking Foundation
 
 Established:
@@ -415,7 +413,7 @@ Implemented:
 
 ### Phase 10 — Azure Terraform Modularization
 
-Refactored Azure infrastructure into reusable modules:
+Refactored Azure infrastructure into reusable Terraform modules:
 
 ```text
 modules/azure/
@@ -464,7 +462,7 @@ Final validated telemetry included:
 
 # Infrastructure Troubleshooting & Validation
 
-A major part of Project 3 was the troubleshooting of real infrastructure behaviour rather than only documenting successful deployments.
+A significant part of Project 3 involved troubleshooting actual infrastructure behaviour rather than only documenting successful deployments.
 
 During Azure monitoring implementation, disk telemetry was available while CPU and memory metrics required further investigation.
 
@@ -509,7 +507,7 @@ A dedicated Terraform destroy plan was reviewed:
 Plan: 0 to add, 0 to change, 37 to destroy.
 ```
 
-Terraform then completed the controlled teardown:
+Terraform subsequently completed the controlled teardown:
 
 ```text
 Apply complete!
@@ -661,13 +659,13 @@ My engineering approach is guided by seven principles:
 
 ---
 
-# Current Engineering Roadmap
+# Engineering Roadmap
 
 ## ✅ Project 1 — Azure Enterprise Infrastructure
 
 **Status: COMPLETE**
 
-Secure Azure enterprise infrastructure covering networking, private Linux compute, Terraform Infrastructure as Code, monitoring, backup/recovery, and operational validation.
+Production-style Azure infrastructure covering secure networking, private Linux compute, Terraform Infrastructure as Code, monitoring, backup/recovery, and operational validation.
 
 ---
 
@@ -675,7 +673,7 @@ Secure Azure enterprise infrastructure covering networking, private Linux comput
 
 **Status: COMPLETE**
 
-Highly available AWS architecture covering multi-AZ networking, private EC2, Application Load Balancing, Auto Scaling, IAM, CloudWatch, S3, Terraform, and resilience testing.
+Production-style AWS highly available architecture covering multi-AZ networking, private EC2, Application Load Balancing, Auto Scaling, IAM, CloudWatch, S3, Terraform, and resilience testing.
 
 ---
 
@@ -713,7 +711,7 @@ Lifecycle Management
 
 The next project expands the portfolio from cloud infrastructure into **containerized and cloud-native platform engineering**.
 
-Planned areas include:
+Planned engineering areas include:
 
 - Docker
 - Containerization
@@ -740,9 +738,9 @@ Technologies will be moved into the demonstrated skills section after they have 
 
 ## Project 5 — Enterprise Cloud Platform Engineering
 
-The final portfolio project will build on the skills developed across Projects 1–4 and focus on production-style enterprise cloud platform engineering.
+The final project will build on the capabilities developed through Projects 1–4 and focus on production-style enterprise cloud platform engineering.
 
-Planned areas include:
+Planned engineering areas include:
 
 - Enterprise identity architecture
 - Cloud governance
